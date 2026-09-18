@@ -1,4 +1,4 @@
-# 💱 Conversor de Moedas
+# 💱 Calculadora de Câmbio
 
 Uma aplicação web desenvolvida em React para conversão entre
 Real Brasileiro, Dólar e Euro, utilizando cotações em tempo real.
