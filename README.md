@@ -3,7 +3,7 @@
 Uma aplicação web desenvolvida em React para conversão entre
 Real Brasileiro, Dólar e Euro, utilizando cotações em tempo real.
 
-<img width="330" height="310" alt="CalculadoradeCmbio-Opera2026-09-1723-22-48-ezgif com-crop" src="https://github.com/user-attachments/assets/d7707ef0-ba70-4f0f-a9f8-96e3daed1b25" />
+<img width="660" height="620" alt="CalculadoradeCmbio-Opera2026-09-1723-22-48-ezgif com-crop" src="https://github.com/user-attachments/assets/d7707ef0-ba70-4f0f-a9f8-96e3daed1b25" />
 
 ## 🚀 Funcionalidades
 
