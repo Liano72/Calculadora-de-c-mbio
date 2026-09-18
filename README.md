@@ -1,16 +1,46 @@
-# React + Vite
+# 💱 Conversor de Moedas
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Uma aplicação web desenvolvida em React para conversão entre
+Real Brasileiro, Dólar e Euro, utilizando cotações em tempo real.
 
-Currently, two official plugins are available:
+[ GIF DO PROJETO ]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Funcionalidades
 
-## React Compiler
+- Conversão entre BRL, USD e EUR
+- Cotação atualizada através de API
+- Formatação de valores em moeda brasileira
+- Dropdown personalizado para seleção das moedas
+- Interface responsiva
+- Atualização dinâmica dos valores
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tecnologias
 
-## Expanding the Oxlint configuration
+- React
+- JavaScript
+- Tailwind CSS
+- Vite
+- API REST
+- Git e GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 📚 O que pratiquei
+
+Durante o desenvolvimento, trabalhei principalmente com:
+
+- `useState`
+- `useEffect`
+- `useRef`
+- Props entre componentes
+- Consumo de API com `fetch`
+- Manipulação e formatação de valores
+- Componentização no React
+- Git e GitHub
+
+## 🔗 Projeto
+
+Gif: 
+<img width="330" height="310" alt="CalculadoradeCmbio-Opera2026-09-1723-22-48-ezgif com-crop" src="https://github.com/user-attachments/assets/d7707ef0-ba70-4f0f-a9f8-96e3daed1b25" />
+
+## 👨‍💻 Desenvolvido por
+
+Lucas Liano
