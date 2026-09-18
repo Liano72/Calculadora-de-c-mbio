@@ -23,20 +23,6 @@ Real Brasileiro, Dólar e Euro, utilizando cotações em tempo real.
 - API REST
 - Git e GitHub
 
-## 📚 O que pratiquei
-
-Durante o desenvolvimento, trabalhei principalmente com:
-
-- `useState`
-- `useEffect`
-- `useRef`
-- Props entre componentes
-- Consumo de API com `fetch`
-- Manipulação e formatação de valores
-- Componentização no React
-- Git e GitHub
-
-
 
 ## 👨‍💻 Desenvolvido por
 
